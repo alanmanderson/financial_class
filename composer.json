@@ -1,0 +1,24 @@
+{
+    "name": "php_classes/financial_class",
+    "description": "This class provides financial functions with the Excel function names and parameter order. It was written by Enrique Garcia M. and posted on phpclasses.org.  That version is incompatible with php 5.5, so Alan M. Anderson copied it into my GitHub account and fixed it.",
+    "type": "library",
+    "keywords": ["Excel", "Financial"],
+    "homepage": "https://www.phpclasses.org/package/892-PHP-Financial-functions-with-the-Excel-function-names-.html",
+    "license": "GPL-3.0",
+    "authors" : [
+        {
+            "name": "Enrique Garcia M.",
+            "homepage": "https://www.phpclasses.org/browse/author/88480.html",
+            "role": "Developer"
+        },
+        {
+            "name": "Alan M. Anderson",
+            "homepage": "https://github.com/alanmanderson",
+            "role": "Updated for php >= 5.5"
+        }
+    ],
+	"autoload":
+	{
+		"classmap": ["financial_class.php"]
+	}
+}
