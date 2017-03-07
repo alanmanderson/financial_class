@@ -1,5 +1,5 @@
 {
-    "name": "php_classes/financial_class",
+    "name": "phpclasses/financial_class",
     "description": "This class provides financial functions with the Excel function names and parameter order. It was written by Enrique Garcia M. and posted on phpclasses.org.  That version is incompatible with php 5.5, so Alan M. Anderson copied it into my GitHub account and fixed it.",
     "type": "library",
     "keywords": ["Excel", "Financial"],
